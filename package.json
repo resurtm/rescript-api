@@ -13,5 +13,8 @@
   "license": "MIT",
   "devDependencies": {
     "bs-platform": "*"
+  },
+  "dependencies": {
+    "bs-express": "^1.0.2"
   }
 }
