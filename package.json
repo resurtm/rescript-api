@@ -15,6 +15,7 @@
     "bs-platform": "*"
   },
   "dependencies": {
-    "bs-express": "^1.0.2"
+    "bs-express": "^1.0.2",
+    "reason-uuid": "^1.0.0"
   }
 }
